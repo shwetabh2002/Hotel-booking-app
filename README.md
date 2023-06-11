@@ -13,8 +13,11 @@ Prerequisites
 Before running the Hotel Booking app, make sure you have the following prerequisites installed:
 
 Steps for running on your system
+
 Installation
 Clone the repository: git clone [repository URL]
+
 Navigate to the project directory: cd Hotel-Booking-App
+
 Install dependencies: npm install
 various dependencies are available in package.json file . Go through it and install the required dependencies.
